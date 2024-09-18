@@ -18,6 +18,12 @@ And here is a preview of the published website's home page:
 
 ## Activity 3
 
+Below is a screenshot of the repository at this stage:
+![alt text](screenshots/sc4.png)
+
+And here is a preview of the published website's home page:
+![alt text](screenshots/sc5.png)
+
 ## Activity 4
 
 ## Activity 5
