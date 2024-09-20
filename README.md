@@ -26,4 +26,10 @@ And here is a preview of the published website's home page:
 
 ## Activity 4
 
+Below is a screenshot of the repository at this stage:
+![alt text](screenshots/sc6.png)
+
+And here is a preview of the published website's Places Travelled section:
+![alt text](screenshots/sc7.png)
+
 ## Activity 5
